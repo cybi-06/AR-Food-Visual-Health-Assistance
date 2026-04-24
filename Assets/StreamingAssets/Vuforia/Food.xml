@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="donut" size="10.000000 10.000000" />
+    <ImageTarget name="apple" size="10.000000 7.548589" />
+    <ImageTarget name="salad" size="10.000000 6.665039" />
+    <ImageTarget name="burger" size="10.000000 7.500000" />
+    <ImageTarget name="pizza" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
