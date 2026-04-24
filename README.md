@@ -11,6 +11,9 @@ An Augmented Reality (AR) based application developed using Unity and Vuforia th
 - Real-time visualization
 
 ---
+## 🙌Demo
+<img width="1003" height="672" alt="image" src="https://github.com/user-attachments/assets/1e90a7c6-fdc7-458d-8dc2-2014ae06ebfe" />
+
 
 ## 🛠️ Tech Stack
 - Unity 3D
